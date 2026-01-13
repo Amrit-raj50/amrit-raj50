@@ -73,9 +73,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amrit-raj50&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-</p>
 
 
 ## 📊 GitHub Stats
