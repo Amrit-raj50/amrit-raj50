@@ -85,8 +85,9 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 ![snake gif](https://github.com/Amrit-raj50/Amrit-raj50/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
