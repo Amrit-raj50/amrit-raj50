@@ -49,7 +49,6 @@
 | 🌐 Frontend Websites | Responsive & interactive websites | HTML / CSS / JS |
 | 📡 Bluetooth Chat App | Offline peer-to-peer messaging | Java / Android |
 
-👉 **Pin your best 3–4 repos**
 
 ---
 
