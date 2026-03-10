@@ -1,5 +1,5 @@
 <p align="center">
-<img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Amrit%20Raj&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Amrit Raj</h1>
@@ -18,4 +18,88 @@
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
+
+<table>
+<tr>
+<td width="55%">
+
+- 🚀 **MERN Stack Developer** focused on building modern web applications  
+- 🌐 Strong in **Frontend Development (HTML, CSS, JavaScript)**  
+- 🎮 Building **browser-based games using JavaScript & Canvas**  
+- 🧩 Creating **interactive websites and full-stack applications**  
+- 📚 Currently learning **Node.js, Express & MongoDB**  
+- 🎯 Goal: **Become a Professional Full Stack Developer**
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
+</p>
+
+### 🎮 Game Development (Web)
+<p>
+<img src="https://skillicons.dev/icons?i=js" />
+</p>
+
+### ⚙️ Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,java" />
+</p>
+
+---
+
+# 🌐 Web Development Skills
+
+- Responsive UI Design  
+- DOM Manipulation  
+- JavaScript Application Logic  
+- REST API Integration  
+- Component-Based UI  
+- Full Stack Development (Learning)  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Amrit-raj50&show_icons=true&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amrit-raj50&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🐍 Contribution Activity
+
+![GitHub Contribution Snake](https://github.com/Amrit-raj50/Amrit-raj50/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+# 📫 Connect With Me
+
+- 💻 GitHub: https://github.com/Amrit-raj50  
+- 🎮 itch.io: https://amrit-raj50.itch.io  
+
+---
+
+⭐ *Focused on building strong JavaScript fundamentals and building modern full-stack applications.*
