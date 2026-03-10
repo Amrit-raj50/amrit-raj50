@@ -4,19 +4,33 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;JavaScript+Game+Developer;Frontend+Web+Developer;Building+Full+Stack+Projects;Always+Learning+and+Building&center=true&width=600&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;JavaScript+Game+Developer;Frontend+Web+Developer;Building+Full+Stack+Projects;Always+Learning+and+Building&center=true&width=600&height=50">
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🚀 **MERN Stack Developer** focused on building modern web applications
-- 🌐 Strong in **Frontend Development (HTML, CSS, JavaScript)**
-- 🎮 Building **browser-based games using JavaScript & Canvas**
-- 🧩 Creating **interactive websites and full-stack applications**
-- 📚 Currently learning **Node.js, Express & MongoDB**
+<table>
+<tr>
+<td width="55%">
+
+- 🚀 **MERN Stack Developer** focused on building modern web applications  
+- 🌐 Strong in **Frontend Development (HTML, CSS, JavaScript)**  
+- 🎮 Building **browser-based games using JavaScript & Canvas**  
+- 🧩 Creating **interactive websites and full-stack applications**  
+- 📚 Currently learning **Node.js, Express & MongoDB**  
 - 🎯 Goal: **Become a Professional Full Stack Developer**
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -24,17 +38,17 @@
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
 </p>
 
 ### 🎮 Game Development (Web)
 <p>
-  <img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=js" />
 </p>
 
 ### ⚙️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,java" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,java" />
 </p>
 
 ---
@@ -52,34 +66,34 @@
 
 ## 🎮 JavaScript Game Dev Skills
 
-- Canvas API
-- Game Loops & Delta Time
-- Collision Detection
-- Movement Physics
-- Input Handling
-- Game State Management
+- Canvas API  
+- Game Loops & Delta Time  
+- Collision Detection  
+- Movement Physics  
+- Input Handling  
+- Game State Management  
 
 ---
 
 ## 🌐 Web Development Skills
 
-- Responsive UI Design
-- DOM Manipulation
-- JavaScript Application Logic
-- REST API Integration
-- Component Based UI
-- Full Stack Development (Learning)
+- Responsive UI Design  
+- DOM Manipulation  
+- JavaScript Application Logic  
+- REST API Integration  
+- Component Based UI  
+- Full Stack Development (Learning)  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amrit-raj50&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Amrit-raj50&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amrit-raj50&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amrit-raj50&theme=tokyonight" />
 </p>
 
 ---
@@ -97,4 +111,4 @@
 
 ---
 
-⭐ *Focused on building strong JavaScript fundamentals and full stack web applications.*
+⭐ *Focused on building strong JavaScript fundamentals and building modern full stack applications.*
