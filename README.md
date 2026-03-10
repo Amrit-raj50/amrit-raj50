@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Amrit%20Raj&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Amrit%20Raj&fontSize=40&fontColor=blue&animation=fadeIn" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Amrit Raj</h1>
