@@ -58,28 +58,6 @@
 
 ---
 
-## 🎯 Featured Projects
-
-| Project | Description | Tech |
-|------|------------|------|
-| 🎮 JavaScript Games | Browser-based games built using Canvas API | HTML / CSS / JS |
-| 🌐 Frontend Websites | Responsive & interactive web projects | HTML / CSS / JS |
-| 🚀 MERN Projects | Full stack apps with authentication & APIs | MongoDB / Express / React / Node |
-| 📡 Bluetooth Chat App | Offline peer-to-peer messaging app | Java / Android |
-
----
-
-## 🎮 JavaScript Game Dev Skills
-
-- Canvas API  
-- Game Loops & Delta Time  
-- Collision Detection  
-- Movement Physics  
-- Input Handling  
-- Game State Management  
-
----
-
 ## 🌐 Web Development Skills
 
 - Responsive UI Design  
