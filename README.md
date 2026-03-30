@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Amrit-raj50&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://visitcount.itsvg.in/api?id=Amrit-raj50&icon=5&color=6" />
 </p>
 
 ---
@@ -50,56 +50,99 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
 </p>
 
-### 🎮 Game Development (Web)
+### 🎮 Game Development
 <p>
 <img src="https://skillicons.dev/icons?i=js" />
 </p>
 
-### ⚙️ Tools & Technologies
+### ⚙️ Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,java" />
 </p>
 
 ---
 
-# 🌐 Web Development Skills
+# 🌐 Skills
 
 - Responsive UI Design  
 - DOM Manipulation  
-- JavaScript Application Logic  
+- JavaScript Logic  
 - REST API Integration  
 - Component-Based UI  
 - Full Stack Development (Learning)  
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Analytics Dashboard
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Amrit-raj50&show_icons=true&theme=tokyonight" />
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amrit-raj50&theme=tokyonight" />
+</p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amrit-raj50&theme=tokyo-night" />
 </p>
 
 ---
 
-# 🐍 Contribution Activity
+# 📊 Languages & Contributions
 
-![GitHub Contribution Snake](https://github.com/Amrit-raj50/Amrit-raj50/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrit-raj50&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amrit-raj50&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amrit-raj50&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amrit-raj50&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Amrit-raj50&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Amrit-raj50/Amrit-raj50/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# ⚡ Advanced Metrics
+
+<p align="center">
+<img src="https://metrics.lecoq.io/Amrit-raj50?template=classic&config.timezone=Asia%2FKolkata" />
+</p>
 
 ---
 
 # 📫 Connect With Me
 
-- 💻 GitHub: https://github.com/Amrit-raj50  
-- 🎮 itch.io: https://amrit-raj50.itch.io  
+<p align="center">
+<a href="YOUR_RESUME_LINK" target="_blank">
+<img src="https://img.shields.io/badge/📄%20Resume-View%20Now-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
+</p>
+
 
 ---
 
-⭐ *Focused on building strong JavaScript fundamentals and building modern full-stack applications.*
+# 🚀 Quote
+
+⭐ *"Consistency + Projects = Success"*
+
+---
