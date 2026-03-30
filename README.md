@@ -42,22 +42,28 @@
 </table>
 
 ---
-
 # 🛠️ Tech Stack
 
 ### 🌐 Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-### 🎮 Game Development
-<p>
-<img src="https://skillicons.dev/icons?i=js" />
-</p>
+---
 
 ### ⚙️ Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,java" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=androidstudio" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ---
