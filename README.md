@@ -95,31 +95,6 @@
 
 ---
 
-# 📊 Languages & Contributions
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrit-raj50&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amrit-raj50&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amrit-raj50&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amrit-raj50&theme=tokyonight" />
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Amrit-raj50&theme=onedark&row=1&column=6" />
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -128,13 +103,6 @@
 
 ---
 
-# ⚡ Advanced Metrics
-
-<p align="center">
-<img src="https://metrics.lecoq.io/Amrit-raj50?template=classic&config.timezone=Asia%2FKolkata" />
-</p>
-
----
 
 # 📫 Connect With Me
 
