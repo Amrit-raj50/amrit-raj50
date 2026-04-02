@@ -8,12 +8,20 @@
 🚀 MERN Stack Developer
 </h3>
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;JavaScript+Game+Developer;Frontend+Web+Developer;Building+Full+Stack+Projects;Always+Learning+and+Building&center=true&width=600&height=50">
+</p>
+
+<!-- <p align="center">
+<img src="https://visitcount.itsvg.in/api?id=Amrit-raj50&icon=5&color=6" />
 </p> -->
 
+# 📫 Connect With Me
+
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Amrit-raj50&icon=5&color=6" />
+<a href="YOUR_RESUME_LINK" target="_blank">
+<img src="https://img.shields.io/badge/📄%20Resume-View%20Now-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
 </p>
 
 ---
