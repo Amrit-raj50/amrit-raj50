@@ -5,12 +5,12 @@
 <h1 align="center">Hi 👋, I'm Amrit Raj</h1>
 
 <h3 align="center">
-🚀 MERN Stack Developer | 🎮 JavaScript Game Developer
+🚀 MERN Stack Developer
 </h3>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;JavaScript+Game+Developer;Frontend+Web+Developer;Building+Full+Stack+Projects;Always+Learning+and+Building&center=true&width=600&height=50">
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://visitcount.itsvg.in/api?id=Amrit-raj50&icon=5&color=6" />
@@ -30,7 +30,9 @@
 - 🧩 Creating **interactive websites and full-stack applications**  
 - 📚 Currently learning **Node.js, Express & MongoDB**  
 - 🎯 Goal: **Become a Professional Full Stack Developer**
-
+- ⚡ Experienced with **React.js and component-based architecture**  
+- 🔐 Learning and implementing **authentication (JWT, APIs, security basics)**  
+- 🛠️ Familiar with **Git, GitHub, and project deployment (Vercel/Netlify)**  
 </td>
 
 <td width="45%">
@@ -67,18 +69,6 @@
 </p>
 
 ---
-
-# 🌐 Skills
-
-- Responsive UI Design  
-- DOM Manipulation  
-- JavaScript Logic  
-- REST API Integration  
-- Component-Based UI  
-- Full Stack Development (Learning)  
-
----
-
 # 📈 GitHub Analytics Dashboard
 
 <p align="center">
@@ -101,22 +91,5 @@
 <img src="https://github.com/Amrit-raj50/Amrit-raj50/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
-
-
-# 📫 Connect With Me
-
-<p align="center">
-<a href="YOUR_RESUME_LINK" target="_blank">
-<img src="https://img.shields.io/badge/📄%20Resume-View%20Now-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" />
-</a>
-</p>
-
-
----
-
-# 🚀 Quote
-
-⭐ *"Consistency + Projects = Success"*
 
 ---
