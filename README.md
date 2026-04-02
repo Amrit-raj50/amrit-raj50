@@ -79,6 +79,19 @@
 </p>
 
 ---
+
+### 📊 GitHub Stats & Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Amrit-raj50&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=FFFFFF" height="180" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Amrit-raj50&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=FFFFFF&langs_count=8" height="180" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</div>
+
 # 📈 GitHub Analytics Dashboard
 
 <!-- <p align="center">
