@@ -22,15 +22,15 @@
 <tr>
 <td width="55%">
 
-- 🚀 **MERN Stack Developer** focused on building modern web applications  
+- 🚀 **MERN Stack Developer** building modern web applications  
 - 🌐 Strong in **Frontend Development (HTML, CSS, JavaScript)**  
-- 🎮 Building **browser-based games using JavaScript & Canvas**  
-- 🧩 Creating **interactive websites and full-stack applications**  
-- 📚 Currently learning **Node.js, Express & MongoDB**  
-- 🎯 Goal: **Become a Professional Full Stack Developer**
 - ⚡ Experienced with **React.js and component-based architecture**  
-- 🔐 Learning and implementing **authentication (JWT, APIs, security basics)**  
-- 🛠️ Familiar with **Git, GitHub, and project deployment (Vercel/Netlify)**  
+- 🧩 Building **interactive websites and full-stack apps**  
+- 🎮 Developing **browser-based games using JavaScript & Canvas**  
+- 🔐 Implementing **authentication (JWT, APIs, security basics)**  
+- 📚 Learning **Node.js, Express & MongoDB**  
+- 🛠️ Familiar with **Git, GitHub, and deployment (Vercel / Netlify)**  
+- 🎯 Goal: **Become a Professional Full Stack Developer** 
 </td>
 
 <td width="45%">
