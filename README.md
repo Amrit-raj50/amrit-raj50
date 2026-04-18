@@ -47,7 +47,7 @@
 # 📫 Connect With Me
 
 <p align="center">
-<a href="YOUR_RESUME_LINK" target="_blank">
+<a href="https://drive.google.com/file/d/1IVN6CZcOasiSYG-rgKCmz2GwSkBS0y_p/view" target="_blank">
 <img src="https://img.shields.io/badge/📄%20Resume-View%20Now-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
 </p>
