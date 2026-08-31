@@ -10,7 +10,7 @@
 
 <!-- <p align="center">
 <img src="https://visitcount.itsvg.in/api?id=Amrit-raj50&icon=5&color=6" />
-</p> -->
+</p> ->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amrit-raj50&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
