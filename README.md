@@ -8,9 +8,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;JavaScript+Game+Developer;Frontend+Web+Developer;Building+Full+Stack+Projects;Always+Learning+and+Building&center=true&width=600&height=50">
 </p>
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://visitcount.itsvg.in/api?id=Amrit-raj50&icon=5&color=6" />
-</p> ->
+</p> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amrit-raj50&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -94,9 +94,9 @@
 
 # 📈 GitHub Analytics Dashboard
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Amrit-raj50&show_icons=true&theme=tokyonight" />
-</p> -->
+</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amrit-raj50&theme=tokyonight" />
